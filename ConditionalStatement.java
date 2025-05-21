@@ -55,6 +55,24 @@ public class ConditionalStatement{
         //     default: System.out.println("Invalid button");
         // }
 
-        
+        //Calculator 
+        System.out.print("first number: ");
+        int a = sc.nextInt();
+        System.out.print("second number: ");
+        int b = sc.nextInt();
+        System.out.print("Operation 1-> +  2-> -  3-> *  4-> / : ");
+        int operator = sc.nextInt();
+
+        switch(operator){ 
+            case 1: System.out.println("Sum:"+ (a+b));
+            break;
+            case 2: System.out.println("difference: "+( a-b));
+            break;
+            case 3: System.out.println("multiplication: "+ (a*b));
+            break;
+            case 4: System.out.println("division: "+ (a/b));
+            break;
+            default: System.out.println("Invalid Operator.");
+        }
     }
 }
