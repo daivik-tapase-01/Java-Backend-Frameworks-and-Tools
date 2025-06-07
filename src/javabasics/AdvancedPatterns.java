@@ -1,3 +1,5 @@
+package javabasics;
+
 public class AdvancedPatterns {
     public static void main(String[] args) {
 

@@ -1,3 +1,5 @@
+package javabasics;
+
 public class StringsBuilder {
     public static void main(String[] args) {
         StringBuilder sb = new StringBuilder("Tony");

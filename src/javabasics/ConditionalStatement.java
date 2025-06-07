@@ -1,3 +1,5 @@
+package javabasics;
+
 import java.util.*;
 
 public class ConditionalStatement{
