@@ -65,5 +65,6 @@ public class Functions {
         int n = sc.nextInt();
         calculateFactorial(n);
 
+        sc.close();
     }
 }

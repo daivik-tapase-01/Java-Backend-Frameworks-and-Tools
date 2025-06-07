@@ -1,0 +1,30 @@
+# IntelliJ IDEA project files
+.idea/
+*.iml
+shelf/
+workspace.xml
+mavenHomeManager.xml
+
+# VS Code settings (optional)
+.vscode/
+
+# Compiled output
+/out/
+*.class
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Maven / Gradle / build directories
+target/
+build/
+.gradle/
+!gradle/wrapper/gradle-wrapper.jar
+
+# Local environment files
+*.env
+*.local

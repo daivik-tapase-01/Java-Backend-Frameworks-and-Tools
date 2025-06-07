@@ -176,5 +176,6 @@ public class FunctionsPractice {
             System.out.print(fibonacciRecursion(i) + " ");
         }
 
+        sc.close();
     }
 }

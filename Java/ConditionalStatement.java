@@ -74,5 +74,6 @@ public class ConditionalStatement{
             break;
             default: System.out.println("Invalid Operator.");
         }
+        sc.close();
     }
 }

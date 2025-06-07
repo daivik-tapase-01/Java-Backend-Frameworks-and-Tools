@@ -96,5 +96,6 @@ public class Strings {
         }
         System.out.println("username: " + userName);
 
+        sc.close();
     }
 }

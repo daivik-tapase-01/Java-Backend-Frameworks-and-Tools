@@ -38,5 +38,6 @@ public class Loops {
             System.out.println(n + " * " + i + " = " + i * n);
         }
 
+        sc.close();
     }
 }

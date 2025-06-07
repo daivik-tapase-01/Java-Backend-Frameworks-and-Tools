@@ -113,5 +113,6 @@ public class Arrays {
             System.out.println("the array is not in ascending order");
         }
 
+        sc.close();
     }
 }

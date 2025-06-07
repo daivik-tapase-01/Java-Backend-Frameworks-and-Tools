@@ -27,5 +27,6 @@ public class Variables {
         int sum = a + b;
         System.out.println(sum);
 
+        sc.close();
     }
 }
