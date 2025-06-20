@@ -1,4 +1,4 @@
-package javabasics;
+package javabasics.OPPs;
 
 class Account{
     public String name;
@@ -20,8 +20,7 @@ class Account{
 //    }
 
 }
-
-public class AccessModifier {
+public class Encapsulation {
     public static void main(String[] args) {
         Account account1 = new Account();
         account1.name = "Maha Bank 1";
